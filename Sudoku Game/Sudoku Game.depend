@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1620378556 source:e:\text\sudoku game\main.cpp
+	"function.h"
+	"draw.h"
+	"init.h"
+
+1620378461 e:\text\sudoku game\include\function.h
+	<SDL.h>
+	<SDL_ttf.h>
+	"Sudoku.h"
+	"draw.h"
+	"init.h"
+
+1620375612 e:\text\sudoku game\include\sudoku.h
+	<stdio.h>
+	<stdbool.h>
+	<iostream>
+	<random>
+	<algorithm>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<stdlib.h>
+
+1620380683 e:\text\sudoku game\include\draw.h
+	<SDL.h>
+	<SDL_ttf.h>
+	"init.h"
+
+1620378364 e:\text\sudoku game\include\init.h
+	"Sudoku.h"
+
+1620380683 source:e:\text\sudoku game\src\sudoku.cpp
+	"Sudoku.h"
+
